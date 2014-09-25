@@ -1,0 +1,11 @@
+{
+    "applications": {
+        "Passcards": {
+            "applicationId": "",
+            "masterKey": ""
+        },
+        "_default": {
+            "link": "Passcards"
+        }
+    }
+}
