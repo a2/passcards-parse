@@ -1,0 +1,44 @@
+body {
+  font-family: 'Fira Sans', sans-serif;
+  font-weight: 500;
+  margin: 30px;
+}
+
+hgroup {
+  text-align: center;
+  position: absolute;
+  top: 0; bottom:0; left: 0; right:0;
+  margin: auto;
+  height: 70px;
+  width: 250px;
+}
+
+h1 {
+  font-size: 50px;
+  line-height: 75%;
+}
+
+h2 {
+  font-size: 25px;
+}
+
+hgroup a {
+  color: #0e5a94;
+  text-decoration: none;
+}
+
+hgroup a:hover {
+  color: #1378c6;
+}
+
+hgroup a:active {
+  position: relative;
+  top: 1px;
+}
+
+a.ribbon img {
+  position: absolute;
+  top: 0;
+  right: 0;
+  border: 0;
+}
