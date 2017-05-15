@@ -1,3 +1,7 @@
+**Deprecated** in favor of [passcards-swift](https://github.com/a2/passcards-swift).
+
+---
+
 # PassCards
 
 ## Schema Configuration
